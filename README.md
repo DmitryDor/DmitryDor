@@ -13,7 +13,8 @@
 ![Unit_test](https://img.shields.io/badge/-Unit_test-134076?style=for-the-badge&logo)
 ---
 - ## 💼 [Portfolio](https://DmitryDor.github.io/myPartfolio)
-- ## 📋 [CV](https://drive.google.com/file/d/1LppvmrJQ6eeR2KL7FqgD72RjFiiiLCOW/view)
+
+    
 - [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/Dorik/badges/large"/>](https://www.codewars.com/users/Dorik)
 
 ___
