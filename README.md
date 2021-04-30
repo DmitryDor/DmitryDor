@@ -15,7 +15,7 @@
 - ## 💼 [Portfolio](https://DmitryDor.github.io/myPartfolio)
 
     
-- [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/Dorik/badges/large"/>](https://www.codewars.com/users/Dorik)
+- [<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/DmitryDor/badges/large"/>](https://www.codewars.com/users/DmitryDor)
 
 ___
 ### Contact me:
